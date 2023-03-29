@@ -49,10 +49,8 @@ However, the artstyle is not just how the models are made, a good deal of the lo
 
 For this style, I was heavily inspired by games such as Mirror's Edge, The Legend of Zelda: Wind Waker and Job Simulator. They are all different games, but some of them (ESPECIALLY the first two) are universally considered to have a timeless aesthetic, mainly because of the smart ways in which they used lights and colors.
 
-![Alt text](/posts/path/to/img.jpg "Optional title")
 ![My Image](picMirror'sEdge.jpg)
 ![My Image](picWindWaker.jpg)
-![My Image](picJobSimulator.jpg)
+![My Image](picJobSimulator.jpeg)
 
-https://images.squarespace-cdn.com/content/v1/5d9eed71525d4d25aaeeb997/1575925784663-MNM7YAS62HCVP321J9ZE/Mirror%27s_Edge_01.jpg![image](https://user-images.githubusercontent.com/113526032/228501325-36ba64ed-a4e4-4faf-aed9-86991c1f21de.png)
 
