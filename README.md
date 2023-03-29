@@ -2,7 +2,7 @@
 
 This is my first project in Unity.
 
-
+![My Image](gamepic1.png)
 
 # Why I made it this way
 
@@ -43,15 +43,14 @@ I decide to self impose an additional challenge, I would make ALL the assets (at
 
 I also wanted the game to have a consistent aesthetic, and considering this + the fact that I had to make MANY assets, I needed to come up with an artstyle that would look good DESPITE being pretty easy to make.
 
-![My Image](gamepic1.png)
-
 I chose a low poly aesthetic, and my prediction about it being easy to create ended up being true.
 
 ![My Image](gamepic2.png)
+![My Image](gamepic3.png)
 
 However, the artstyle is not just how the models are made, a good deal of the look of the game is derived by the lighting and the colors.
 
-![My Image](gamepic3.png)
+
 
 For this style, I was heavily inspired by games such as Mirror's Edge, The Legend of Zelda: Wind Waker and Job Simulator. They are all different games, but some of them (ESPECIALLY the first two) are universally considered to have a timeless aesthetic, mainly because of the smart ways in which they used lights and colors.
 
