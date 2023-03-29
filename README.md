@@ -43,6 +43,10 @@ I decide to self impose an additional challenge, I would make ALL the assets (at
 
 I also wanted the game to have a consistent aesthetic, and considering this + the fact that I had to make MANY assets, I needed to come up with an artstyle that would look good DESPITE being pretty easy to make.
 
+![My Image](gamepic1.jpg)
+![My Image](gamepic2.jpg)
+![My Image](gamepic3.jpg)
+
 I chose a low poly aesthetic, and my prediction about it being easy to create ended up being true.
 
 However, the artstyle is not just how the models are made, a good deal of the look of the game is derived by the lighting and the colors.
