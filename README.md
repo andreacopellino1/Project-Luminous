@@ -21,6 +21,7 @@ I decided to begin with something more approachable that still had something in 
 - How to create interactions for both the player and the other entities of the game
 - Making a multi-scene project work
 - How to create and manage assets that need to feel consistent with each other.
+- How to manage the lighting in Unity
 
 
 
@@ -32,10 +33,26 @@ I thought that a shooter would be a good place to start, because the logic behin
 
 The gameplay would consist of moving in a 3D environemt and fighting the enemies, the goal is to reach a specific room alive.
 
+In its current state, the game is not even remotely complete, but I'm pretty satisfied with what I was able to accomplish it this limited time.
+
 
 
 ## The Style
 
-I decide to self impose a specific challenge, I would make ALL the assets (at least the visual ones) by myself
+I decide to self impose an additional challenge, I would make ALL the assets (at least the visual ones) by myself
 
-It doesn't sound as bad if you consider that I already had some decent experience with blender
+I also wanted the game to have a consistent aesthetic, and considering this + the fact that I had to make MANY assets, I needed to come up with an artstyle that would look good DESPITE being pretty easy to make.
+
+I chose a low poly aesthetic, and my prediction about it being easy to create ended up being true.
+
+However, the artstyle is not just how the models are made, a good deal of the look of the game is derived by the lighting and the colors.
+
+For this style, I was heavily inspired by games such as Mirror's Edge, The Legend of Zelda: Wind Waker and Job Simulator. They are all different games, but some of them (ESPECIALLY the first two) are universally considered to have a timeless aesthetic, mainly because of the smart ways in which they used lights and colors.
+
+![Alt text](/posts/path/to/img.jpg "Optional title")
+![My Image](picMirror'sEdge.jpg)
+![My Image](picWindWaker.jpg)
+![My Image](picJobSimulator.jpg)
+
+https://images.squarespace-cdn.com/content/v1/5d9eed71525d4d25aaeeb997/1575925784663-MNM7YAS62HCVP321J9ZE/Mirror%27s_Edge_01.jpg![image](https://user-images.githubusercontent.com/113526032/228501325-36ba64ed-a4e4-4faf-aed9-86991c1f21de.png)
+
